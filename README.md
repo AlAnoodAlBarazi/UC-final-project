@@ -18,13 +18,20 @@
 
 > Fill out project information in English ⬇️
 ### Student Name
+<<<<<<< HEAD
 AlAnoud Humaidi AlBarazi
 
 ### Project Name
 MyBakery
+=======
+AlAnood Humaidi AlBarazi
+
+### Project Name
+My Bakery
+>>>>>>> 396b354cf35f95120aee45d603c17b8e60367f43
 # Idea
 Problem and solutions if found 
-
+Website to run our small bussiness 
 
 # Future Work 
 Bakery Resturant
