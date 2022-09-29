@@ -4,7 +4,6 @@
 
 ### اسم الطالب
 
-
 ### اسم المشروع
 
 
@@ -19,15 +18,15 @@
 
 > Fill out project information in English ⬇️
 ### Student Name
-
+AlAnoud Humaidi AlBarazi
 
 ### Project Name
-
+MyBakery
 # Idea
 Problem and solutions if found 
 
 
 # Future Work 
-
+Bakery Resturant
 
 
